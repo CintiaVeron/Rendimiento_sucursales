@@ -78,6 +78,6 @@ Nivel moderado. Un valor superior al 5% puede ser una señal de alerta.
 
 1. Cloná el repositorio:
    ```bash
-   git clone
+   git clone https://github.com/CintiaVeron/Rendimiento_sucursales.git
    cd Rendimiento_sucursales
 
